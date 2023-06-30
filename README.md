@@ -1,6 +1,6 @@
 # IFGoiano-ED1
 
-# IFGoiano-LTP![IfGoianoGit](https://user-images.githubusercontent.com/106558911/218721650-1b165674-c58d-42f7-af5a-1f1e867c45f8.png)
+# IFGoiano-ED1![IfGoianoGit](https://user-images.githubusercontent.com/106558911/218721650-1b165674-c58d-42f7-af5a-1f1e867c45f8.png)
 
 
 <br> 
