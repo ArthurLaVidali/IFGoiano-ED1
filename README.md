@@ -1,5 +1,3 @@
-# IFGoiano-ED1
-
 # IFGoiano-ED1![IfGoianoGit](https://user-images.githubusercontent.com/106558911/218721650-1b165674-c58d-42f7-af5a-1f1e867c45f8.png)
 
 
@@ -17,14 +15,21 @@ Data Structure I
 
 # Sobre / About
 
-Repositório relacionado aos conteúdos e atividades passados na matéria.
+Bem-vindos ao repositório da disciplina de Estrutura de Dados 1! Este espaço foi criado com o propósito de ser um local central para armazenar todos os materiais relevantes, atividades e projetos relacionados à nossa jornada de aprendizado.
 
 <br>
 
-Repository related to the contents and activities passed in the subject.
+Welcome to the Data Structure 1 repository! This space has been created with the purpose of being a central place to store all relevant materials, activities and projects related to our learning journey.
 
 <br> 
 
+# Navegação do repositório / Repository navigation
+## Atividades / Activities
+    -https://github.com/ArthurLaVidali/IFGoiano-Estrutura-de-Dados-1/tree/main/Exercicios
+      --https://github.com/ArthurLaVidali/IFGoiano-Estrutura-de-Dados-1/tree/main/Exercicios/Atividade%2001
+      --
+
+<br>
 
 ## Escola / School
 
