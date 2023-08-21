@@ -25,9 +25,9 @@ Welcome to the Data Structure 1 repository! This space has been created with the
 
 # Navegação do repositório / Repository navigation
 ## Atividades / Activities
-    -https://github.com/ArthurLaVidali/IFGoiano-Estrutura-de-Dados-1/tree/main/Exercicios
-      --https://github.com/ArthurLaVidali/IFGoiano-Estrutura-de-Dados-1/tree/main/Exercicios/Atividade%2001
-      --
+   (https://github.com/ArthurLaVidali/IFGoiano-Estrutura-de-Dados-1/tree/main/Exercicios)
+      (https://github.com/ArthurLaVidali/IFGoiano-Estrutura-de-Dados-1/tree/main/Exercicios/Atividade%2001)
+      
 
 <br>
 
